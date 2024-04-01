@@ -1,0 +1,29 @@
+{
+  "name": "Masjid-al-Aqsa",
+  "short_name": "MasjidalAqsa",
+  "icons": [
+    {
+      "src": "./assets/images/icon/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icon/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "id": "./index.html",
+  "description": "hello",
+  "scope": "/",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#db9e30",
+  "theme_color": "#db9e32"
+}
