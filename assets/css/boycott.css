@@ -1,0 +1,249 @@
+/* boycott section start */
+.searched-products .product {
+    border: #cfcfcf 1px solid;
+    padding: 24px;
+}
+
+.searched-products .logo-wrapper {
+    min-width: 100px;
+    width: 100px;
+    height: 55px;
+}
+
+.searched-products .sub-brands .logo-wrapper {
+    min-width: 55px;
+    width: 55px;
+    height: 35px;
+}
+
+.searched-products .product .tagline {
+    position: absolute;
+    left: 6px;
+    top: 0;
+    padding: 0 12px;
+    transform: translateY(-50%);
+    background-color: #fff;
+}
+
+
+.boycott-section .form-group .icon-wrapper {
+    background-color: #db9e30;
+    font-size: 26px;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.boycott-section .nav-tabs .linear-shadow {
+    background: linear-gradient(to left, #fff, transparent 32px, transparent calc(100% - 32px), #fff);
+    pointer-events: none;
+    z-index: 2;
+}
+
+.boycott-section .nav-tabs .nav-link {
+    border: none;
+    border-bottom: 3px solid #e7edf6;
+    color: #441a05;
+    min-width: max-content;
+}
+
+.boycott-section .boycott-tabs .swiper-slide {
+    width: auto;
+}
+
+.boycott-section .nav-tabs .nav-link:hover {
+    background-color: #f9eedc4a;
+}
+
+.boycott-section .nav-tabs .nav-link.active {
+    border-color: #db9e30;
+    color: #db9e30;
+}
+
+.swiper-nav {
+    position: absolute;
+    top: 0;
+    width: 26px;
+    height: 100%;
+    background-color: #441a05;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper-button-disabled {
+    opacity: 0;
+}
+
+.swiper-nav i {
+    font-size: 24px;
+    color: #fff;
+}
+
+.swiper-nav.swiper-nav-prev {
+    left: 0;
+    transform: translateX(-100%);
+}
+
+.swiper-nav.swiper-nav-next {
+    right: 0;
+    transform: translateX(100%);
+}
+
+.grid-column-1-3 {
+    grid-column: 1/ span 3;
+}
+
+.table {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table>:not(caption)>*>* {
+    padding: 0;
+}
+
+.table-cell {
+    border: #f0f0f0 1px solid;
+    padding: 16px;
+}
+
+.table-cell .img-wrapper {
+    width: 100px;
+    height: 55px;
+}
+
+.table-cell>div:not(.sub-brands) .img-wrapper {
+    padding-right: 16px;
+    margin-right: 16px;
+    border-right: 2px solid #e7edf6;
+}
+
+.table-cell .sub-brands .img-wrapper {
+    width: 60px;
+    height: 40px;
+}
+
+.table-cell i {
+    color: #bcbcbc;
+    font-size: 17px;
+}
+
+.table-cell [data-bs-toggle="tooltip"] {
+    cursor: pointer;
+}
+
+.tooltip-inner {
+    max-width: 300px;
+}
+
+/* boycott section end */
+
+
+@media screen and (max-width: 991.97px) {
+    .table {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .grid-column-1-3 {
+        grid-column: 1/ span 2;
+    }
+}
+
+@media (max-width: 767.97px) {
+    .searched-products .product {
+        padding: 20px 18px;
+    }
+
+    .searched-products .logo-wrapper {
+        min-width: 85px;
+        width: 85px;
+        height: 55px;
+    }
+
+    .searched-products .sub-brands .logo-wrapper {
+        min-width: 45px;
+        width: 45px;
+        height: 35px;
+    }
+
+    .boycott-section .form-group .icon-wrapper {
+        font-size: 18px;
+    }
+
+    .swiper-nav {
+        display: none;
+    }
+
+    .table-cell .img-wrapper {
+        width: 70px;
+        height: 45px;
+    }
+
+    .table-cell .sub-brands .img-wrapper {
+        width: 40px;
+        height: 40px;
+    }
+
+    .table-cell i {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 575.97px) {
+    .searched-products .sub-brands .logo-wrapper {
+        min-width: 45px;
+        width: 45px;
+        height: 30px;
+    }
+
+    .searched-products .product {
+        padding: 20px 16px;
+    }
+
+    .table-cell>div:not(.sub-brands) .img-wrapper {
+        padding-right: 0;
+        margin-right: 0;
+        border-right: none;
+    }
+
+    .table-cell .img-wrapper {
+        max-width: 100px;
+        width: 70px;
+        height: 40px;
+    }
+
+    .table-cell {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .table-cell .sub-brands .img-wrapper {
+        width: 35px;
+        height: 30px;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .table-cell {
+        position: relative;
+    }
+
+    .table-cell [data-bs-toggle="tooltip"].fa-solid {
+        position: absolute;
+        top: 8px;
+        right: 6px;
+    }
+}
+
+@media (max-width: 320px) {
+
+    .searched-products .logo-wrapper {
+        min-width: 70px;
+        width: 70px;
+        height: 50px;
+    }
+}

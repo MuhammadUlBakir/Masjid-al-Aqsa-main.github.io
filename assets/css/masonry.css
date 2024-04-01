@@ -1,0 +1,26 @@
+.masonry-gallery .grid-item {
+    padding: 3px;
+}
+
+.masonry-gallery .grid-item>img {
+    width: 100%;
+}
+
+.masonry-gallery.masonry-col-3 .grid-item {
+    width: 33%;
+}
+
+@media (max-width: 767.97px) {
+
+    .masonry-gallery.masonry-col-3 .grid-item {
+        width: 50%;
+    }
+}
+
+@media (max-width: 575.97px) {
+
+    .masonry-gallery.masonry-col-3 .grid-item {
+        width: 100%;
+    }
+
+}

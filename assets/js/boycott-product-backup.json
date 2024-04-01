@@ -1,0 +1,944 @@
+[
+  {
+    "category": "Apparel",
+    "title": "Zara",
+    "logo": "/Apparel/zara.svg",
+    "info": "Mocks genocide and supports Israel openly",
+    "extra_info": "Zara's latest marketing campaign uses corpses in plastic wrapping, and warzone aesthetics, mocking the genocide by israel in Gaza. In a previous incident Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Zara did not made a statement distancing themselves from this association and allowed this ad campaign to run.",
+    "proof": [
+      "https://www.thenationalnews.com/lifestyle/fashion-beauty/2023/12/10/zara-campaign-boycott-gaza-palestine/"
+    ],
+    "alternatives": [""]
+  },
+
+  {
+    "category": "Apparel",
+    "title": "Puma",
+    "logo": "/Apparel/Puma.png",
+    "info": "Highly Israel-supporting",
+    "extra_info": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel’s illegal settlements on occupied Palestinian land.",
+    "proof": ["https://thisispuma.com/"],
+    "alternatives": [""]
+  },
+
+  {
+    "category": "Apparel",
+    "title": "Chanel",
+    "logo": "/Apparel/Chanel.png",
+    "info": "Donations to Israel",
+    "extra_info": "It is privately owned by the Wertheimer family. Alain Wertheimer, condemned the attack on Israel but remained silent on the attacks on Gaza, also pledged $4m in Chanel's name.",
+    "proof": [
+      "https://www.universityoffashion.com/blog/#:~:text=Chanel%20was%20donating%20%244%20million"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based perfumes"
+    ]
+  },
+  {
+    "category": "Apparel",
+    "title": "River Island",
+    "logo": "/Apparel/River Island.png",
+    "info": "This organization is dedicated to the development of the Zionist State, by channelling British capital to the occupied territories for the benefit of the Zionists and the exploitation of the Palestinians.",
+    "extra_info": "The owners of River Island, Lewis family, also own the Isrotel hotal chain in Israel and have support and start many zionist initiatives, spearheaded by the now deceased David Lewis.",
+    "proof": [
+      "https://www.thejc.com/news/isrotel-founder-david-lewis-dies-at-87-khjf9asd"
+    ],
+    "alternatives": [""]
+  },
+  {
+    "category": "Apparel",
+    "title": "Caterpillar",
+    "logo": "/Apparel/Caterpillar.png",
+    "info": "",
+    "extra_info": "Caterpillar bulldozers have been used in the demolition of Palestinian homes. The D9 bulldozer was specifically designed for the IDF.",
+    "proof": ["https://en.wikipedia.org/wiki/IDF_Caterpillar_D9"],
+    "alternatives": [""]
+  },
+
+  {
+    "category": "Food",
+    "title": "McDonald’s",
+    "logo": "/Foods/McDonald’s.png",
+    "info": "Openly supported genocide. Distributed free meals to IDF soliders. McDonald’s has partnership with the Jewish United Fund, which, among other things, promotes visits to Kiryat Gat, built on top of a destroyed Palestinian village.",
+    "extra_info": "McDonalds Israel supports IDF by providing free food and drinks to Israeli militants. See tweet (click translate) for reference.",
+    "proof": ["https://twitter.com/McDonaldsIL/status/1715047104895230153"],
+    "alternatives": ["Local family owned restaurants"]
+  },
+  {
+    "category": "Food",
+    "title": "Burger King",
+    "logo": "/Foods/Burger King.png",
+    "info": "Openly supported genocide. Distributed free meals to IDF soliders",
+    "extra_info": "Burger King Israel supports IDF by providing free food and drinks to Israeli militants. See their instagram post (click translate) for reference.",
+    "proof": ["https://www.instagram.com/p/CyORRWHIqeH/"],
+    "alternatives": ["Eat at local family owned businesses"]
+  },
+  {
+    "category": "Food",
+    "title": "Pizza Hut",
+    "logo": "/Foods/Pizza hut.png",
+    "info": "",
+    "extra_info": "Parent company Yum Brands is an investor in Israeli start ups.",
+    "proof": [
+      "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
+    ],
+    "alternatives": ["Eat at local family owned businesses"]
+  },
+  {
+    "category": "Food",
+    "title": "Danone",
+    "logo": "/Foods/Danone.png",
+    "info": "Highly Israeli-supporting and investing company",
+    "extra_info": "Danone invests millions into the israeli food start up scene.",
+    "proof": [
+      "https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/"
+    ],
+    "alternatives": ["Supermarket own brand products"]
+  },
+  {
+    "category": "Food",
+    "title": "Sabra",
+    "logo": "/Foods/Sabra.png",
+    "info": "Purely Israeli based",
+    "extra_info": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem. Avoid Nestle products until they divest all operations in Occupied Palestine. Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source.",
+    "proof": ["https://en.wikipedia.org/wiki/Osem_(company)"],
+    "alternatives": ["Supermarket own brand alternatives, eg. Morrisons"]
+  },
+  {
+    "category": "Food",
+    "title": "Nestlé",
+    "logo": "/Foods/Nestlé.png",
+    "info": "Nestlé owns 53.8% share of leading Israeli food manufacturer Osem, an investment worth over $850 million. Nestle opened its Research & Development Centre in Israel, in Sderot. And since then it has steadily increased its investment in Israel, its initial 10% stake in Osem has now grown to a controlling 53.8%. Nestle has 9 factories in Israel.",
+    "extra_info": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem. Avoid Nestle products until they divest all operations in Occupied Palestine. Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source.",
+    "proof": ["https://en.wikipedia.org/wiki/Osem_(company)"],
+    "alternatives": [
+      "Supermarket own brand options.",
+      "For water, look for Saka or non-Nestle/Coca-Cola/Pepsico brands"
+    ],
+    "sub_brand": [
+      {
+        "sub_logo": "/Foods/KitKat.png",
+        "sub_title": "KitKat"
+      },
+      {
+        "sub_logo": "/Daily life/Maggi Noodles.png",
+        "sub_title": "Maggi"
+      },
+      {
+        "sub_logo": "/Foods/Nestlé Cheerios.png",
+        "sub_title": "Cheerios"
+      },
+      {
+        "sub_logo": "/Foods/Nestlé Milkpak.png",
+        "sub_title": "Nestlé Milkpak"
+      }
+    ]
+  },
+  {
+    "category": "Food",
+    "title": "PepsiCo",
+    "logo": "/Foods/PepsiCo.png",
+    "info": "It's Christian-American beverage comapny, but has a long and strong history of business with Israeli based SodaStream company. Pepsi bought Sodastream and has factories in occupied Palestine. We can say it's American but still has jewish-background",
+    "extra_info": "PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+    "proof": [
+      "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
+    ],
+    "alternatives": [
+      "Supermarket own brand products, eg. Morrisons",
+      "Barr Drinks (owner of Irn Bru)"
+    ],
+    "sub_brand": [
+      {
+        "sub_logo": "/Foods/Pepsi.png",
+        "sub_title": "Pepsi"
+      },
+      {
+        "sub_logo": "/Foods/7up.png",
+        "sub_title": "7up"
+      },
+      {
+        "sub_logo": "/Foods/Lay's.png",
+        "sub_title": "Lay's"
+      },
+      {
+        "sub_logo": "/Foods/Doritos.png",
+        "sub_title": "Doritos"
+      },
+      {
+        "sub_logo": "/Foods/Cheetos.png",
+        "sub_title": "Cheetos"
+      }
+    ]
+  },
+  {
+    "category": "Food",
+    "title": "Mondelēz",
+    "logo": "/Foods/Mondelēz.png",
+    "info": "American-Christian company, but have some businesses with Israeli-based Strauss group brands",
+    "extra_info": "Mondelez invests in Israeli start ups in Occupied Palestine.",
+    "proof": [
+      "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment"
+    ],
+    "alternatives": ["Supermarket own brand products. Eg. Morrisons"],
+    "sub_brand": [
+      {
+        "sub_logo": "/Foods/Oreo.png",
+        "sub_title": "Oreo"
+      },
+      {
+        "sub_logo": "/Foods/Cadbury.png",
+        "sub_title": "Cadbury"
+      },
+      {
+        "sub_logo": "/Foods/Trident.png",
+        "sub_title": "Trident"
+      },
+      {
+        "sub_logo": "/Foods/Tang.png",
+        "sub_title": "Tang"
+      }
+    ]
+  },
+  {
+    "category": "Food",
+    "title": "Mars, inc",
+    "logo": "/Foods/Mars, inc.png",
+    "info": "",
+    "extra_info": "Mars supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+    "proof": [
+      "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
+    ],
+    "alternatives": [
+      "Supermarket own brand options.",
+      "Eat whole foods instead of confectionary."
+    ],
+    "sub_brand": [
+      {
+        "sub_logo": "/Foods/Mars.png",
+        "sub_title": "Mars"
+      },
+      {
+        "sub_logo": "/Foods/M&Ms.png",
+        "sub_title": "M&Ms"
+      },
+      {
+        "sub_logo": "/Foods/Snickers.png",
+        "sub_title": "Snickers"
+      },
+      {
+        "sub_logo": "/Foods/Skittles.jpg",
+        "sub_title": "Skittles"
+      },
+      {
+        "sub_logo": "/Foods/Twix.png",
+        "sub_title": "Twix"
+      }
+    ]
+  },
+
+  {
+    "category": "Beverages",
+    "title": "Coca Cola",
+    "logo": "/Beverages/Coca-Cola.png",
+    "info": "Jewish founder and highly Israeli-supporting. From 1966 onward Coca-Cola has been a staunch supporter of Israel . In 1997 the Government of Israel Economic Mission honored Coca-Cola at the Israel Trade Award Dinner for its continued support of Israel for the last 30 years and for refusing to abide by the Arab League boycott of Israel",
+    "extra_info": "Coca-Cola operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+    "proof": ["https://www.foa.org.uk/campaign/boycottcocacola"],
+    "alternatives": [
+      "Supermarket own brand products, eg. Morrisons",
+      "Barr Drinks (owner of Irn Bru)"
+    ]
+  },
+  {
+    "category": "Beverages",
+    "title": "Starbucks",
+    "logo": "/Beverages/Starbucks.png",
+    "info": "Openly supported genocide",
+    "extra_info": "Howard Shultz is the largest private owner of Starbucks shares and is a staunch zionist who invests heavily in Israels economy including a recent $1.7 Billion investment in cybersecurity startup Wiz.",
+    "proof": [
+      "https://fortune.com/2021/04/07/wiz-howard-schultz-investment-fundraising-cybersecurity-startups-starbucks-ceo/"
+    ],
+    "alternatives": ["Caffe Nero"]
+  },
+  {
+    "category": "Beverages",
+    "title": "Eden Spring",
+    "logo": "/Beverages/Eden Spring.jpg",
+    "info": "Israeli company",
+    "extra_info": "The parent company of Eden Springs UK is an Israeli water company which steals water resources from the farmers and towns in the Golan Heights, restricting access to it for non Israelis. Eden Water around Europe sells locally sourced water, however, as its parent is complicit in illegal occupation, it should be boycotted.",
+    "proof": ["https://bdsmovement.net/news/bds-victory-against-eden-springs"],
+    "alternatives": [
+      "Supermarket own brand products, eg. Morrisons",
+      "Saka water (from Turkiye)"
+    ]
+  },
+  {
+    "category": "Beverages",
+    "title": "Pepsi",
+    "logo": "/Beverages/Pepsi.png",
+    "info": "It's Christian-American beverage comapny, but has a long and strong history of business with Israeli based SodaStream company. Pepsi bought Sodastream and has factories in occupied Palestine. We can say it's American but still has jewish-background",
+    "extra_info": "PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+    "proof": [
+      "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
+    ],
+    "alternatives": [
+      "Supermarket own brand products, eg. Morrisons",
+      "Barr Drinks (owner of Irn Bru)"
+    ]
+  },
+  {
+    "category": "Beverages",
+    "title": "Nestlé",
+    "logo": "/Foods/Nestlé.png",
+    "info": "",
+    "extra_info": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem. Avoid Nestle products until they divest all operations in Occupied Palestine. Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source.",
+    "proof": ["https://en.wikipedia.org/wiki/Osem_(company)"],
+    "alternatives": [
+      "Supermarket own brand options.",
+      "For water, look for Saka or non-Nestle/Coca-Cola/Pepsico brands"
+    ],
+    "sub_brand": [
+      {
+        "sub_logo": "/Beverages/Nescafe.png",
+        "sub_title": "Nescafé"
+      },
+      {
+        "sub_logo": "/Beverages/Nespresso.png",
+        "sub_title": "Nespresso"
+      },
+      {
+        "sub_logo": "/Beverages/Nestlé Pure Life.png",
+        "sub_title": "Nestlé Pure Life"
+      },
+      {
+        "sub_logo": "/Beverages/Perrier.png",
+        "sub_title": "Perrier"
+      },
+      {
+        "sub_logo": "/Beverages/San Pellegrino.png",
+        "sub_title": "San Pellegrino"
+      },
+      {
+        "sub_logo": "/Beverages/Milo.png",
+        "sub_title": "Milo"
+      },
+      {
+        "sub_logo": "/Beverages/Nestea.png",
+        "sub_title": "Nestea"
+      }
+    ]
+  },
+
+  {
+    "category": "Cosmetics",
+    "title": "L'Oreal",
+    "logo": "/Cosmetics/L'oreal.png",
+    "info": "L’Oreal’s operations in Israel began in the mid-1990s, motivated in part by political considerations. Since then, L’Oreal I factory in the Israeli town of Migdal Ha’ emek in the Lower Galilee. The settlement of Migdal Ha’ emek was established in 1952 on lands belonging to the ethnically-cleansed Palestinian village of al-Mujaydil, whose original inhabitants are still denied the right to return to their homes. Like almost all other Jewish settlements built in the midst of Palestinian villages in the Galilee, inside Israel, Migdal Ha’emek discriminates against Palestinian citizens of Israel, denying them the right to buy, rent or live on any part of the town, simply because they are “non Jews.” L’Oreal Israel manufacturers a line of products using Dead Sea minerals under the name &quot;Natural Sea Beauty&quot; that is exported to 22 countries. It should be noted that one third of the western shore of the Dead Sea lies in the Israeli-occupied West Bank. While the entire shore and its resources are systematically closed to Palestinians by Israeli military occupation and apartheid practices, Israel exploits the Dead Sea for international tourism, mining, and improving its image.",
+    "extra_info": "L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Lancome",
+    "logo": "/Cosmetics/Lancome.png",
+    "info": "L’Oreal’s",
+    "extra_info": "Lancome is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Maybelline New York",
+    "logo": "/Cosmetics/Maybelline New York.png",
+    "info": "L'Oreal",
+    "extra_info": "Maybelline is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Chanel",
+    "logo": "/Apparel/Chanel.png",
+    "info": "",
+    "extra_info": "It is privately owned by the Wertheimer family. Alain Wertheimer, condemned the attack on Israel but remained silent on the attacks on Gaza, also pledged $4m in Chanel's name.",
+    "proof": [
+      "https://www.universityoffashion.com/blog/#:~:text=Chanel%20was%20donating%20%244%20million"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based perfumes"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Louis Vuitton",
+    "logo": "/Cosmetics/Louis Vuitton.png",
+    "info": "",
+    "extra_info": "The owner of Louis Vuitton's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+    "proof": [
+      "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances",
+      "Non designer clothing and accessories"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Garnier",
+    "logo": "/Cosmetics/Garnier.png",
+    "info": "",
+    "extra_info": "Garnier is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": [
+      "Supermarket own brand products. Eg. Morrisons",
+      "Lush cosmetics"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Clinique",
+    "logo": "/Cosmetics/Clinique.png",
+    "info": "",
+    "extra_info": "Clinique is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land. Don't buy products from the vast catalogue of Estee Lauder. Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more. Don't work for Estee Lauder brands.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Estee Lauder",
+    "logo": "/Cosmetics/Estee Lauder.png",
+    "info": "Jewish parent company founder, Ronald Lauder.",
+    "extra_info": "Ronald Lauder, who together with his brother Leonard Lauder inherited the Estee Lauder company, is the president of the World Jewish Congress, and chairman of the Jewish National Fund, and is a zionist with extremist views and financially and politically supports Israeli occupation of Palestinian land.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based perfumes"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "MAC",
+    "logo": "/Cosmetics/MAC.png",
+    "info": "Jewish parent company founder, Ronald Lauder.",
+    "extra_info": "MAC Cosmetics is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land. Don't buy products from the vast catalogue of Estee Lauder. Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more. Don't work for Estee Lauder brands.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Yves Saint Laurent Beauté",
+    "logo": "/Cosmetics/Yves Saint Laurent Beauté.png",
+    "info": "",
+    "extra_info": "YSL Beauty is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Huda beauty", "Lush cosmetics", "Sunnamusk"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Giorgio Armani Beauty",
+    "logo": "/Cosmetics/Giorgio Armani Beauty.png",
+    "info": "",
+    "extra_info": "Giorgio Armani Beauty is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Tom Ford",
+    "logo": "/Cosmetics/Tom Ford.png",
+    "info": "Jewish parent company founder, Ronald Lauder.",
+    "extra_info": "Tom Ford Beauty is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Bobbi Brown",
+    "logo": "/Cosmetics/Bobbi Brown.gif",
+    "info": "Jewish parent company founder, Ronald Lauder.",
+    "extra_info": "Bobbi Brown is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land. Don't buy products from the vast catalogue of Estee Lauder. Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more. Don't work for Estee Lauder brands.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Jo Malone",
+    "logo": "/Cosmetics/Jo Malone.jpg",
+    "info": "Jewish parent company founder, Ronald Lauder.",
+    "extra_info": "Jo Malone is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land. Don't buy products from the vast catalogue of Estee Lauder. Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more. Don't work for Estee Lauder brands.",
+    "proof": [
+      "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+    ],
+    "alternatives": ["Lush cosmetics", "Sunnamusk"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Kiehl's",
+    "logo": "/Cosmetics/Kiehl's.png",
+    "info": "",
+    "extra_info": "Kiehl's is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Urban Decay",
+    "logo": "/Cosmetics/Urban Decay.png",
+    "info": "",
+    "extra_info": "Urban Decay is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "NYX",
+    "logo": "/Cosmetics/NYX.png",
+    "info": "",
+    "extra_info": "NYX Professional is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Kérastase",
+    "logo": "/Cosmetics/Kérastase.gif",
+    "info": "",
+    "extra_info": "Kerastase is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Ahava",
+    "logo": "/Cosmetics/Ahava.png",
+    "info": "",
+    "extra_info": "Ahava is an Israeli company which operates its manufacturing facilities in Occupied Palestine, stealing resources from the Dead Sea.",
+    "proof": [
+      "https://electronicintifada.net/content/boycott-ahava-dead-sea-products-makes-impact/8563"
+    ],
+    "alternatives": ["Lush cosmetics"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Biotherm",
+    "logo": "/Cosmetics/Biotherm.png",
+    "info": "",
+    "extra_info": "BIOTHERM is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "La Roche-Posay",
+    "logo": "/Cosmetics/La Roche-Posay (not found).png",
+    "info": "",
+    "extra_info": "La Roche-Posay is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Kylie Cosmetics",
+    "logo": "/Cosmetics/Kylie Cosmetics.png",
+    "info": "",
+    "extra_info": "Kylie posted that she stands with Israel before deleting it following backlash from followers.",
+    "proof": [
+      "https://www.dailymail.co.uk/tvshowbiz/article-12607295/Kylie-Jenner-posts-deletes-Instagram-Story-showing-support-Israel.html"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Kylie Skin",
+    "logo": "/Cosmetics/Kylie Skin.png",
+    "info": "",
+    "extra_info": "Kylie posted that she stands with Israel before deleting it following backlash from followers.",
+    "proof": [
+      "https://www.dailymail.co.uk/tvshowbiz/article-12607295/Kylie-Jenner-posts-deletes-Instagram-Story-showing-support-Israel.html"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Kylie Cosmetics",
+    "logo": "/Cosmetics/Kylie Baby.png",
+    "info": "",
+    "extra_info": "Kylie posted that she stands with Israel before deleting it following backlash from followers.",
+    "proof": [
+      "https://www.dailymail.co.uk/tvshowbiz/article-12607295/Kylie-Jenner-posts-deletes-Instagram-Story-showing-support-Israel.html"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Diesel",
+    "logo": "/Cosmetics/Diesel.png",
+    "info": "",
+    "extra_info": "Diesel Frangrances is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Sunnamusk", "Unbranded oil based perfumes"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Ralph Lauren",
+    "logo": "/Cosmetics/Ralph Lauren.png",
+    "info": "",
+    "extra_info": "Ralph Lauren Frangrances is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Sunnamusk", "Unbranded oil based fragrances"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Giorgio Armani Perfumes",
+    "logo": "/Cosmetics/Giorgio Armani Perfumes.jpg",
+    "info": "",
+    "extra_info": "Giorgio Armani Beauty is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Huda beauty",
+      "Sunnamusk",
+      "Unbranded oil based fragrances"
+    ]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "CeraVe",
+    "logo": "/Cosmetics/CeraVe (not found).png",
+    "info": "",
+    "extra_info": "L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Lancome Paris",
+    "logo": "/Cosmetics/Lancome Paris.png",
+    "info": "",
+    "extra_info": "Lancome is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+    "proof": [
+      "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+    ],
+    "alternatives": ["Lush cosmetics", "Huda beauty"]
+  },
+  {
+    "category": "Cosmetics",
+    "title": "Bath & Body Works",
+    "logo": "/Cosmetics/Bath & Body Works.png",
+    "info": "Pro-Israeli brand",
+    "extra_info": "Les Wexner who owns L Brands, the parent company of Bath&Body Works, is a staunch ally of Israel, and a long time business partner of Jeffrey Epstein, the convicted child trafficker.",
+    "proof": [
+      "https://www.timesofisrael.com/the-relationship-between-epstein-and-jewish-philanthropist-wexner-explained/"
+    ],
+    "alternatives": [
+      "Lush cosmetics",
+      "Sunnamusk",
+      "Unbranded oil based perfumes"
+    ]
+  },
+
+  {
+    "category": "Daily Life",
+    "title": "Nestlé",
+    "logo": "/Foods/Nestlé.png",
+    "info": "Nestlé owns 53.8% share of leading Israeli food manufacturer Osem, an investment worth over $850 million. Nestle opened its Research & Development Centre in Israel, in Sderot. And since then it has steadily increased its investment in Israel, its initial 10% stake in Osem has now grown to a controlling 53.8%. Nestle has 9 factories in Israel.",
+    "extra_info": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem. Avoid Nestle products until they divest all operations in Occupied Palestine. Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source.",
+    "proof": ["https://en.wikipedia.org/wiki/Osem_(company)"],
+    "alternatives": [
+      "Supermarket own brand options.",
+      "For water, look for Saka or non-Nestle/Coca-Cola/Pepsico brands"
+    ],
+    "sub_brand": [
+      {
+        "sub_logo": "/Daily life/Nestlé Nesquik.png",
+        "sub_title": "Nestlé Nesquik"
+      },
+      {
+        "sub_logo": "/Daily life/Nestlé Milkpak.png",
+        "sub_title": "Nestlé Milkpak"
+      },
+      {
+        "sub_logo": "/Daily life/Maggi Noodles.png",
+        "sub_title": "Maggi Noodles"
+      },
+      {
+        "sub_logo": "/Daily life/Nestlé Cerelac.png",
+        "sub_title": "Nestlé Cerelac"
+      },
+      {
+        "sub_logo": "/Daily life/NAN.png",
+        "sub_title": "Nestlé NAN"
+      }
+    ]
+  },
+  {
+    "category": "Daily Life",
+    "title": "P&G",
+    "logo": "/Daily life/P&G.png",
+    "info": "Huge investments and support to Israel. Have a research and development center and invests Israeli-based companies as well. Strong economic support.",
+    "extra_info": "Procter and Gamble opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+    "proof": [
+      "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=8a21f4211f5e"
+    ],
+    "alternatives": ["Supermarket own brand products. Eg. Morrisons"],
+    "sub_brand": [
+      {
+        "sub_logo": "/Daily life/Pampers.png",
+        "sub_title": "Pampers"
+      },
+      {
+        "sub_logo": "/Daily life/Gillette.png",
+        "sub_title": "Gillette"
+      },
+      {
+        "sub_logo": "/Daily life/Head_and_shoulders.png",
+        "sub_title": "Head & Shoulders"
+      },
+      {
+        "sub_logo": "/Daily life/Pantene.png",
+        "sub_title": "Pantene"
+      },
+      {
+        "sub_logo": "/Daily life/Ariel.png",
+        "sub_title": "Ariel"
+      }
+    ]
+  },
+  {
+    "category": "Daily Life",
+    "title": "KIMBERLY CLARK",
+    "logo": "/Daily life/KIMBERLY-CLARK.png",
+    "info": "In 1998, Mr. Robert P. Van der Merwe, chairman of Kimberly-Clark Europe received the Jubilee Award by the Israeli Prime Minister Netanyahu. This is the highest tribute ever awarded by the ‘State of Israel ‘ in recognition of those individuals and organizations, that through their investments and trade relationships, have done the most to strengthen the Israeli economy. Kimberly Clark Corp owns 49.9% interest in Israeli company Hogla (6/96) through America-Israel PaperMills $49.9m.",
+    "extra_info": "",
+    "proof": [""],
+    "alternatives": [""],
+    "sub_brand": [
+      {
+        "sub_logo": "/Daily life/Huggies.jpg",
+        "sub_title": "Huggies"
+      },
+      {
+        "sub_logo": "/Daily life/Kotex.png",
+        "sub_title": "Kotex"
+      },
+      {
+        "sub_logo": "/Daily life/Kleenex.png",
+        "sub_title": "Kleenex"
+      }
+    ]
+  },
+  {
+    "category": "Daily Life",
+    "title": "Carrefour Mart",
+    "logo": "/Daily life/Carrefour mart.png",
+    "info": "",
+    "extra_info": "Carrefour made huge investments into Israel last year, opening 50 stores and is planning to open a further 100 by 2024.",
+    "proof": [
+      "https://www.carrefour.com/en/news/2023/arrivee-de-carrefour-en-israel"
+    ],
+    "alternatives": ["Local supermarkets"]
+  },
+
+  {
+    "category": "Baby care",
+    "title": "P&G",
+    "logo": "/Daily life/P&G.png",
+    "info": "Huge investments and support to Israel. Have a research and development center and invests Israeli-based companies as well. Strong economic support.",
+    "extra_info": "Procter and Gamble opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+    "proof": [
+      "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=8a21f4211f5e"
+    ],
+    "alternatives": ["Supermarket own brand products. Eg. Morrisons"],
+    "sub_brand": [
+      {
+        "sub_logo": "/Daily life/Pampers.png",
+        "sub_title": "Pampers"
+      },
+      {
+        "sub_logo": "/Baby care/safeguard.png",
+        "sub_title": "Safeguard"
+      },
+      {
+        "sub_logo": "/Baby care/Tide.png",
+        "sub_title": "Tide"
+      },
+      {
+        "sub_logo": "/Daily life/Head_and_shoulders.png",
+        "sub_title": "Head & Shoulders"
+      }
+    ]
+  },
+
+  {
+    "category": "Online Business",
+    "title": "Fiverr",
+    "logo": "/Online Buisness/Fiverr.png",
+    "info": "Israeli company",
+    "extra_info": "Based in Tel Aviv, Israel. CEO, Micha Kaufman, is a staunch zionist who supports the IDF.",
+    "proof": ["https://twitter.com/michakaufman"],
+    "alternatives": ["Upwork"]
+  },
+  {
+    "category": "Online Business",
+    "title": "Wix",
+    "logo": "/Online Buisness/Wix.png",
+    "info": "Israeli company",
+    "extra_info": "Based in Tel Aviv, Israel. CEO Avishai Abrahami is a zionist who supports the IDF.",
+    "proof": ["https://twitter.com/avishai_ab"],
+    "alternatives": ["Wordpress", "Weebly", "Squarespace"]
+  },
+  {
+    "category": "Online Business",
+    "title": "Monday.com",
+    "logo": "/Online Buisness/Mondaycom.png",
+    "info": "Israeli company",
+    "extra_info": "Monday.com is an Israeli start up operating out of Occupied Palestine.",
+    "proof": [
+      "https://investorplace.com/2021/06/mndy-stock-ipo-what-to-know-as-monday-com-starts-trading-today/"
+    ],
+    "alternatives": ["Jira"]
+  },
+
+  {
+    "category": "Filmography",
+    "title": "Disney",
+    "logo": "/filmography/disney.svg",
+    "info": "Disney donated $2m to Israeli organizations while Israel was committing genocide in Gaza",
+    "extra_info": "Disney made an official announcement that it will be pledging $2m and further initiatives to support Israel. Whilst the CEO explicitly condemned attacks on Jews in Israel, he made no mention of the Palestinian people who are being killed by the Israeli military.",
+    "proof": [
+      "https://www.yahoo.com/entertainment/disney-pledges-2-million-donation-032004758.html?guccounter=1&guce_referrer=aHR0cHM6Ly9ib3ljb3R0LnRoZXdpdG5lc3MubmV3cy8&guce_referrer_sig=AQAAAJX192ZoqPC3aR2rxuYX4Awx8reHNniVSz9mfDpPC4uCoWPLMC8q9HKF_ALsi_BcRvcD4R2kfT0jrI-AU_6vY8MRE5MYbhAaxBaDDuBjGu23iJWTSujVByuW3W_ZiB2HXqJbPxfgCOi17IPHjuQ_KQn7jUL9Wu5HSxPTfK9manLA"
+    ],
+    "alternatives": ["Alchemiya.com"]
+  },
+  {
+    "category": "Filmography",
+    "title": "Paramount+",
+    "logo": "/filmography/paramount.svg",
+    "info": "Highly Israeli supportive. Openly posted on Twitter confirming they support people of Israel and global Jewish community, all this during Gaza genocide",
+    "extra_info": "Paramount issued a statement on twitter that the company stands with israel.",
+    "proof": [
+      "https://twitter.com/paramountco/status/1712287350942818485?t=zNX3F6Yv8F5PAGuixAXcCg&s=19"
+    ],
+    "alternatives": ["Alchemiya", "Tabii"]
+  },
+
+  {
+    "category": "Tech",
+    "title": "HP",
+    "logo": "/Tech/HP.png",
+    "info": "Provides mass support and equipments to Israel apartheid. Notably, HP helps run the biometric ID system that Israel uses to restrict Palestinian movement",
+    "extra_info": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
+    "proof": ["https://en.wikipedia.org/wiki/Hewlett-Packard_Israel"],
+    "alternatives": ["Lenovo"]
+  },
+  {
+    "category": "Tech",
+    "title": "Intel",
+    "logo": "/Tech/Intel.png",
+    "info": "Al-Awda, the Palestinian Right to Return Coalition, has called on Intel to close its plants in Kiryat Gat, site of the former Palestinian villages Iraq al-Manshiya and Faluja. Israeli historian Benny Morris has written that during the 1948-49 Israeli war of independence with Palestinians and their Arab allies, the villages’ residents were all expelled in line with Israel’s “strategic desire to achieve ‘Arab-clear’ frontiers.” Intel, whose processors can be found in about 80 percent of the world’s computers, has reportedly invested $2.7 billion to upgrade its Kiryat Gat plants where it is working on new chips that will make computers lighter and faster. That brings its total investments in Israel to about $10 billion, and it has also benefited from more than $1 billion in Israeli government",
+    "extra_info": "Intel Invests heavily in israel including in towns stolen from Palestinians",
+    "proof": [
+      "https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-israel.html"
+    ],
+    "alternatives": ["AMD"]
+  },
+  {
+    "category": "Tech",
+    "title": "Express VPN",
+    "logo": "/Tech/expressvpn.png",
+    "info": "Israeli company. It was acquired by Kape Technologies, an Israeli cybersecurity firm, for approximately $936 million",
+    "extra_info": "Express VPN is an israeli company owned by zionists who support the occupation of Palestine.",
+    "proof": [
+      "https://www.calcalistech.com/ctech/articles/0,7340,L-3918443,00.html"
+    ],
+    "alternatives": ["NordVPN"]
+  },
+
+  {
+    "category": "Automobile",
+    "title": "Caterpillar",
+    "logo": "/Apparel/Caterpillar.png",
+    "info": "",
+    "extra_info": "Caterpillar bulldozers have been used in the demolition of Palestinian homes. The D9 bulldozer was specifically designed for the IDF.",
+    "proof": ["https://en.wikipedia.org/wiki/IDF_Caterpillar_D9"],
+    "alternatives": [""]
+  }
+]

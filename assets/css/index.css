@@ -1,0 +1,263 @@
+/* hero section start */
+.hero-carousel-section .swiper-pagination {
+    bottom: 25px;
+}
+
+.hero-carousel-section .swiper-slide {
+    height: auto;
+}
+
+.hero-carousel-section .swiper-pagination .swiper-pagination-bullet {
+    width: 9px;
+    height: 9px;
+    background-color: #fff;
+}
+
+.main-hero-section {
+    padding-top: 300px;
+    padding-bottom: 200px;
+}
+
+.main-hero-section h1 {
+    text-shadow: 0 3px 12px #00000030;
+}
+
+/* hero section end */
+
+/* welcome section start */
+
+.prayer-time-col .MPwidget {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 320px;
+    width: 100%;
+    background-color: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 0;
+}
+
+.prayer-time-col .MPwidget .MPheader {
+    min-height: auto;
+    padding: 0;
+    border-radius: 0;
+    background-color: transparent;
+    font-family: inherit;
+    font-style: unset;
+}
+
+.prayer-time-col .MPwidget .MPheader>a {
+    display: none;
+}
+
+.prayer-time-col .MPwidget .MPheader .title {
+    padding: 0;
+}
+
+.prayer-time-col .MPwidget .MPheader .title a {
+    color: #441a05;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+}
+
+.prayer-time-col .MPwidget .daterow {
+    color: #fff;
+    font-weight: 400;
+}
+
+.prayer-time-col .MPtimetable {
+    font-family: inherit;
+    font-size: 18px;
+}
+
+.prayer-time-col .MPtimetable td {
+    text-align: left;
+    color: #441a05;
+    font-weight: bold;
+}
+
+.prayer-time-col .MPtimetable tbody tr:not(:first-of-type) td {
+    border-bottom: 1px solid #75561f;
+}
+
+.prayer-time-col .MPtimetable td:nth-child(2) {
+    text-align: right;
+    color: #fff;
+}
+
+.prayer-time-col .MPtimetable tr {
+    background-color: transparent;
+}
+
+.prayer-time-col .MPtimetable tr:nth-child(2n) {
+    background-color: transparent;
+}
+
+.prayer-time-col .MPfooter {
+    display: none;
+}
+
+
+/* service section start */
+.service-section .card {
+    padding: 57px 30px;
+}
+
+.service-section .col:first-child .card {
+    background: #fafaf2 url(/assets/images/service-col-one.jpg) no-repeat top right/cover;
+}
+
+.service-section .col:nth-child(2) .card {
+    background: #fafaf2 url(/assets/images/service-col-two.jpg) no-repeat top center/cover;
+}
+
+.service-section .col:last-child .card {
+    background: #fafaf2 url(/assets/images/service-col-three.jpg) no-repeat top left/cover;
+}
+
+
+
+
+/* View gallery section */
+
+.view-gallery-section .img-hover-scale {
+    border: 1px solid rgb(223, 223, 223)
+}
+
+.btn.view-gallery {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    background: #db9f30bd;
+    font-weight: 600;
+    backdrop-filter: blur(10px);
+    border-radius: 0;
+    font-size: 16px;
+    padding: 24px;
+}
+
+.btn.view-gallery:hover,
+.view-gallery-section .img-hover-scale:hover .btn.view-gallery {
+    color: white;
+    background: #db9e30;
+}
+
+
+/* event section start */
+.hadith-section {
+    background: url(https://masjidalaqsa.b-cdn.net/assets/images/homepage/hadith-of-the-day.webp) no-repeat center bottom/cover;
+}
+
+.hadith-slider {
+    border-left: 4px solid #441a05;
+    box-shadow: 0 5px 9px 1px #00000040;
+    max-width: 580px;
+}
+
+.hadith-pagination.swiper-pagination .swiper-pagination-bullet {
+    margin-top: 30px;
+    background-color: #441a05;
+    width: 11px;
+    height: 11px;
+}
+
+
+/* Index page backgrounds sections */
+
+
+/* our news section start */
+
+.articles-section .feature-article {
+    background: none !important;
+}
+
+.articles-section .feature-article {
+    position: relative;
+}
+
+.articles-section .feature-article::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.articles-section .feature-article .feature-article-heading {
+    display: -webkit-box;
+    line-clamp: 1;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: all 0.15s ease-in-out;
+}
+
+.articles-section .feature-article:hover h3 {
+    color: #db9e30 !important;
+}
+
+.articles-section .feature-article-lists {
+    background: #fafaf2 url(/assets/images/geometry-light-bg.png) no-repeat center center/cover;
+}
+
+.articles-section .feature-article-lists .feature-article-list:not(:last-of-type) {
+    border-bottom: 1.5px solid #e5e5e5;
+}
+
+.articles-section .feature-article-list {
+    position: relative;
+}
+
+/* Media queries */
+
+@media (max-width: 991.97px) {
+    .main-hero-section {
+        padding-top: 230px;
+    }
+
+    .service-section .card {
+        padding: 57px 8px;
+    }
+}
+
+@media (max-width: 767.97px) {
+    .main-hero-section {
+        padding-top: 180px;
+        padding-bottom: 100px;
+    }
+
+    .prayer-time-col .MPtimetable td,
+    .prayer-time-col .MPwidget .MPheader .title a {
+        font-size: 16px;
+    }
+
+    .service-section .card {
+        padding: 48px 8px;
+    }
+
+    .btn.view-gallery {
+        font-size: 14px;
+        padding: 14px;
+    }
+}
+
+@media (max-width: 575.97px) {
+    .main-hero-section {
+        padding-top: 165px;
+        padding-bottom: 86px;
+    }
+
+    .prayer-time-col .MPtimetable td,
+    .prayer-time-col .MPwidget .MPheader .title a {
+        font-size: 15px;
+    }
+}

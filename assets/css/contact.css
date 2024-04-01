@@ -1,0 +1,94 @@
+#successResponse {
+  background-color: rgb(209, 245, 209);
+  border: 1px solid green;
+  display: none;
+  text-align: center;
+}
+
+#errorResponse {
+  background-color: rgb(255, 193, 193);
+  border: 1px solid red;
+  display: none;
+  text-align: center;
+}
+
+.form-control.err:focus {
+  color: #441a05;
+  border-color: red;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.form-control {
+  padding: 18px 21px;
+  font-size: 16px;
+  background-color: #f8f8e5;
+  border: 1px solid #fafaf2;
+}
+
+.form-control::placeholder {
+  color: #5e544f;
+}
+
+.form-control:focus {
+  color: #000;
+  border-color: #db9e30;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+/* Button loader */
+.btn-loader {
+  position: relative;
+  border-radius: 100%;
+  display: none;
+}
+
+.btn-loader span {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 100%;
+  background-color: white;
+  margin-right: 6px;
+  opacity: 0;
+}
+
+.btn-loader span:nth-child(1) {
+  animation: dotsOpacity 1s ease-in-out infinite;
+}
+
+.btn-loader span:nth-child(2) {
+  animation: dotsOpacity 1s ease-in-out 0.33s infinite;
+}
+
+.btn-loader span:nth-child(3) {
+  animation: dotsOpacity 1s ease-in-out 0.66s infinite;
+}
+
+@keyframes dotsOpacity {
+
+  0%,
+  100% {
+    opacity: 0;
+  }
+
+  60% {
+    opacity: 1;
+  }
+}
+
+
+@media (max-width: 991.97px) {
+  .form-control {
+    padding: 16px 19px;
+  }
+}
+
+@media (max-width: 767.97px) {
+  .form-control {
+    padding: 15px 18px;
+    font-size: 14px;
+  }
+
+}

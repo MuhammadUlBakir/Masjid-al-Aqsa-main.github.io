@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Redirect from .html URLs to non-.html URLs
+RewriteCond %{REQUEST_URI} \.html$
+RewriteRule ^(.*).html$ /$1 [R=301,L,NC]
+
+# Existing rule: Rewrite URLs without .html to include .html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+Redirect 301 /boycott-israeli-products-list-campaign /boycott-israeli-products-brands-list

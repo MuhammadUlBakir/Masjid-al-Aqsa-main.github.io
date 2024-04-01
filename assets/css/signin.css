@@ -1,0 +1,9 @@
+.form-wrapper {
+    max-width: 450px;
+    height: 100vh;
+}
+
+.form-wrapper .form-inner {
+    background-color: #fafaf2;
+    border: 1px solid #db9e30;
+}

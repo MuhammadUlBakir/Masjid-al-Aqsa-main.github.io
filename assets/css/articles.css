@@ -1,0 +1,11 @@
+.article-section .article-card-item:not(:last-child) {
+    border-bottom: 1.5px solid #e1e6eb;
+}
+
+.article-section .article-card-item {
+    transition: all 0.2s linear;
+}
+
+.article-section .article-card-item:hover {
+    background-color: #f9eedca8;
+}

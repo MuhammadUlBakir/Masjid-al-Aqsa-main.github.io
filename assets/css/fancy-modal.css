@@ -1,0 +1,19 @@
+.fancybox__slide.has-close-btn {
+    padding-top: 50px;
+}
+
+.fancybox__content>.f-button.is-close-btn {
+    --f-button-width: 42px;
+    --f-button-height: 42px;
+    --f-button-svg-width: 32px;
+    --f-button-svg-height: 32px;
+    position: absolute;
+    top: -42px;
+    opacity: 1;
+}
+
+@media (max-width: 1400px) {
+    .fancybox__content {
+        padding: 0;
+    }
+}
